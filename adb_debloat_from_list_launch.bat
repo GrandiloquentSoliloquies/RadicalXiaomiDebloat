@@ -16,7 +16,7 @@ echo.
 set "SCRIPT_DIR=%~dp0"
 
 :: Set the full path to the PowerShell script we want to run.
-set "PS_SCRIPT_PATH=%SCRIPT_DIR%uninstaller_logic.ps1"
+set "PS_SCRIPT_PATH=%SCRIPT_DIR%adb_debloat_from_list.ps1"
 
 :: Execute the PowerShell script.
 :: -NoProfile: Starts PowerShell faster.
