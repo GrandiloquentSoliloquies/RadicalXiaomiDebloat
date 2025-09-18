@@ -1,4 +1,6 @@
-# Open-Source Android App Replacements
+# Android App Replacements
+
+I curated the list and tried out apps, Gemini made it into some organized list with corporate-speak-esque descriptions.
 
 ## Calculator
 
