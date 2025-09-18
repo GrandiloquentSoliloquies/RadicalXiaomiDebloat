@@ -1,0 +1,2285 @@
+
+--------------------------------------------------------------------------
+[INFO] --- Script Execution Started on 09/18/2025 00:29:57 ---
+--------------------------------------------------------------------------
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 cn.wps.xiaomi.abroad.lite'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 cn.wps.xiaomi.abroad.lite
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.alibaba.aliexpresshd'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.alibaba.aliexpresshd
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.appmanager'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.appmanager
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.fv'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.fv
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.kindle'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.kindle
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.mShop.android'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.mShop.android
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.mShop.android.shopping'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.mShop.android.shopping
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.mp3'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.mp3
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.amazon.venezia'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.amazon.venezia
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.backupconfirm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.backupconfirm
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.bips'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.bips
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.bookmarkprovider'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.bookmarkprovider
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.browser'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.browser
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.dreams.basic'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.dreams.basic
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.dreams.phototable'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.dreams.phototable
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.egg'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.egg
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.email'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.email
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.exchange'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.exchange
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.hotwordenrollment.okgoogle'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.packageinstaller'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.packageinstaller
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.printspooler'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.printspooler
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.providers.partnerbookmarks'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.providers.partnerbookmarks
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.providers.userdictionary'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.providers.userdictionary
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.sharedstoragebackup'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.sharedstoragebackup
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.stk'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.stk
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.wallpaper.livepicker'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.wallpaper.livepicker
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.wallpaperbackup'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.wallpaperbackup
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.android.wallpapercropper'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.android.wallpapercropper
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.audible.application'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.audible.application
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.block.puzzle.game.hippo.mi'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.block.puzzle.game.hippo.mi
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.blurb.checkout'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.blurb.checkout
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.booking'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.booking
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.cequint.ecid'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.cequint.ecid
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.cnn.mobile.android.phone.edgepanel'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.cnn.mobile.android.phone.edgepanel
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.crazy.juicer.xm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.crazy.juicer.xm
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.diotek.sec.lookup.dictionary'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.diotek.sec.lookup.dictionary
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.dsi.ant.plugins.antplus'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.dsi.ant.plugins.antplus
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.dsi.ant.sample.acquirechannels'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.dsi.ant.sample.acquirechannels
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.dsi.ant.server'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.dsi.ant.server
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.dsi.ant.service.socket'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.dsi.ant.service.socket
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.duokan.phone.remotecontroller'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.duokan.phone.remotecontroller
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.enhance.gameservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.enhance.gameservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.facebook.appmanager'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.facebook.appmanager
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.facebook.katana'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.facebook.katana
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.facebook.services'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.facebook.services
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.facebook.system'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.facebook.system
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.flipboard.app'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.flipboard.app
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.flipboard.boxer.app'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.flipboard.boxer.app
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.books'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.books
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.docs'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.docs
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.magazines'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.magazines
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.plus'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.plus
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.subscriptions.red'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.tachyon'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.tachyon
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.apps.youtube.music'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.apps.youtube.music
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.gm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.gm
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.googlequicksearchbox'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.marvin.talkback'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.marvin.talkback
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.music'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.music
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.printservice.recommendation'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.printservice.recommendation
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.projection.gearhead'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.projection.gearhead
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.talk'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.talk
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.tts'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.tts
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.videos'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.videos
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.android.youtube'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.android.youtube
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.ar.core'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.ar.core
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.google.vr.vrcore'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.google.vr.vrcore
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.gotv.nflgamecenter.us.lite'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.gotv.nflgamecenter.us.lite
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.hancom.office.editor.hidden'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.hancom.office.editor.hidden
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.imdb.mobile'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.imdb.mobile
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.infraware.polarisoffice5'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.infraware.polarisoffice5
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.jewelsblast.ivygames.Adventure.free'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.jewelsblast.ivygames.Adventure.free
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.linkedin.android'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.linkedin.android
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.logame.eliminateintruder3d'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.logame.eliminateintruder3d
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.android.globalFileexplorer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.android.globalFileexplorer
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.android.globalpersonalassistant'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.android.globalpersonalassistant
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.global.pocobbs'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.global.pocobbs
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.global.pocostore'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.global.pocostore
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.globalbrowser'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.globalbrowser
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mi.globalminusscreen'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mi.globalminusscreen
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.micredit.in'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.micredit.in
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.appmanager'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.appmanager
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.office.excel'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.office.excel
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.office.officehubrow'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.office.officehubrow
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.office.outlook'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.office.outlook
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.office.powerpoint'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.office.powerpoint
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.office.word'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.office.word
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.microsoft.skydrive'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.microsoft.skydrive
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.milink.service'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.milink.service
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mintgames.triplecrush.tile.fun'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mintgames.triplecrush.tile.fun
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mintgames.wordtrip'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mintgames.wordtrip
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mipay.wallet.id'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mipay.wallet.id
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mipay.wallet.in'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mipay.wallet.in
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.analytics'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.analytics
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.android.fashiongallery'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.android.fashiongallery
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.audioeffect'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.audioeffect
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.audiomonitor'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.audiomonitor
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.bugreport'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.bugreport
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.carlink'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.carlink
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.cit'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.cit
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.cloudbackup'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.cloudbackup
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.cloudservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.cloudservice
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.cloudservice.sysbase'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.cloudservice.sysbase
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.compass'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.compass
+--- ADB Output Start ---
+Failure [-1000]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.contentcatcher'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.contentcatcher
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.daemon'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.daemon
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.huanji'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.huanji
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.hybrid'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.hybrid
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.hybrid.accessory'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.hybrid.accessory
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.maintenancemode'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.maintenancemode
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.mediaeditor'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.mediaeditor
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.mediaviewer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.mediaviewer
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.micloudsync'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.micloudsync
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.miservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.miservice
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.mishare.connectivity'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.mishare.connectivity
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.misound'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.misound
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.msa.global'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.msa.global
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.nextpay'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.nextpay
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.notes'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.notes
+--- ADB Output Start ---
+Failure [-1000]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.personalassistant'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.personalassistant
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.phrase'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.phrase
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.player'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.player
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.smsextra'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.smsextra
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.systemAdSolution'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.systemAdSolution
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.touchassistant'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.touchassistant
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.translation.kingsoft'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.translation.kingsoft
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.translation.xmcloud'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.translation.xmcloud
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.translation.youdao'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.translation.youdao
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.translationservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.translationservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.userguide'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.userguide
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.videoplayer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.videoplayer
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.voiceassist'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.voiceassist
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.voiceassistoverlay'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.voiceassistoverlay
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.voicetrigger'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.voicetrigger
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.vsimcore'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.vsimcore
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.weather2'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.weather2
+--- ADB Output Start ---
+Failure [-1000]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.wmsvc'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.wmsvc
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.miui.yellowpage'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.miui.yellowpage
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mobeam.barcodeService'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mobeam.barcodeService
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mobiletools.systemhelper'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mobiletools.systemhelper
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.monotype.android.font.chococooky'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.monotype.android.font.chococooky
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.monotype.android.font.cooljazz'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.monotype.android.font.cooljazz
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.monotype.android.font.foundation'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.monotype.android.font.foundation
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.monotype.android.font.rosemary'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.monotype.android.font.rosemary
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.mygalaxy'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.mygalaxy
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.netflix.mediaclient'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.netflix.mediaclient
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.netflix.partner.activation'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.netflix.partner.activation
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.nf.snake'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.nf.snake
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.nuance.swype.input'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.nuance.swype.input
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.opera.browser'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.opera.browser
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.opera.max.oem'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.opera.max.oem
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.opera.preinstall'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.opera.preinstall
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.osp.app.signin'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.osp.app.signin
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.policydm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.policydm
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.qti.qcc'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.qti.qcc
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.qualcomm.uimremoteserver'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.qualcomm.uimremoteserver
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.AutoPreconfig'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.AutoPreconfig
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.Preconfig'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.Preconfig
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.RilServiceModeApp'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.RilServiceModeApp
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.DataCreate'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.DataCreate
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.SecSetupWizard'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.SecSetupWizard
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.SmartClipEdgeService'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.SmartClipEdgeService
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.apex'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.apex
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.applinker'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.applinker
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.billing'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.billing
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.bluetoothtest'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.bluetoothtest
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.chromecustomizations'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.chromecustomizations
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.desktoplauncher'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.desktoplauncher
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.dexonpc'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.dexonpc
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.factorykeystring'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.factorykeystring
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.gamehub'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.gamehub
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.hwmoduletest'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.hwmoduletest
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.kidshome'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.kidshome
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.magnifier'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.magnifier
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.myfiles'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.myfiles
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.ocr'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.ocr
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.parser'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.parser
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.personalization'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.personalization
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.popupcalculator'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.popupcalculator
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.quicktool'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.quicktool
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.ringtoneBR'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.ringtoneBR
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.safetyassurance'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.safetyassurance
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.sbrowser'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.sbrowser
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.servicemodeapp'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.servicemodeapp
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.shealth'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.shealth
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.soundalive'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.soundalive
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.sysscope'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.sysscope
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.tfunlock'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.tfunlock
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.tourviewer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.tourviewer
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.translator'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.translator
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.ve.vebgm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.ve.vebgm
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.wfdbroker'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.wfdbroker
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.withtv'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.withtv
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.app.wlantest'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.app.wlantest
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.cover.ledcover'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.cover.ledcover
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.daemonapp'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.daemonapp
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.desktopmode.uiservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.desktopmode.uiservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.diagmonagent'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.diagmonagent
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.easyMover'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.easyMover
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.easyMover.Agent'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.easyMover.Agent
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.easyonehand'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.easyonehand
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.emergencylauncher'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.emergencylauncher
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.mimage.avatarstickers'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.mimage.avatarstickers
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.mimage.gear360editor'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.mimage.gear360editor
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.mimage.photoretouching'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.mimage.photoretouching
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.ofviewer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.ofviewer
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.omc'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.omc
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.preloadinstaller'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.preloadinstaller
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.provider.snote'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.provider.snote
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.providers.security'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.providers.security
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.providers.tasks'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.providers.tasks
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.sdhms'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.sdhms
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.service.health'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.service.health
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.sidesync30'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.sidesync30
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.splitsound'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.splitsound
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.uibcvirtualsoftkey'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.uibcvirtualsoftkey
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.widgetapp.diotek.smemo'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.widgetapp.diotek.smemo
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.android.widgetapp.easymodecontactswidget'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.android.widgetapp.easymodecontactswidget
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.app.TransmitPowerService'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.app.TransmitPowerService
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.automation'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.automation
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.bcservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.bcservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.downloadablekeystore'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.downloadablekeystore
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.enterprise.knox.attestation'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.enterprise.knox.attestation
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.enterprise.knox.cloudmdm.smdms'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.enterprise.knox.cloudmdm.smdms
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.enterprise.mdm.services.simpin'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.enterprise.mdm.services.simpin
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.enterprise.mdm.vpn'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.enterprise.mdm.vpn
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.epdgtestapp'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.epdgtestapp
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.everglades'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.everglades
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.everglades.update'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.everglades.update
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.factory'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.factory
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.factory.camera'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.factory.camera
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.factory.iris.usercamera'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.factory.iris.usercamera
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.hearingadjust'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.hearingadjust
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.kidsplat.installer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.kidsplat.installer
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.knox.foldercontainer'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.knox.foldercontainer
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.knox.knoxsetupwizardclient'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.knox.knoxsetupwizardclient
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.knox.switcher'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.knox.switcher
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.location.nsflp2'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.location.nsflp2
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.mldapchecker'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.mldapchecker
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.modem.settings'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.modem.settings
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.providers.assisteddialing'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.providers.assisteddialing
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.readershub'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.readershub
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.smartcard.manager'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.smartcard.manager
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.spen.flashannotate'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.spen.flashannotate
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.spp.push'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.spp.push
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.sve'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.sve
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.usbsettings'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.usbsettings
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.vowifispg'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.vowifispg
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sec.yosemite.phone'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sec.yosemite.phone
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sem.factoryapp'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sem.factoryapp
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.singtel.mysingtel'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.singtel.mysingtel
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.skms.android.agent'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.skms.android.agent
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.skype.raider'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.skype.raider
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sohu.inputmethod.sogou.xiaomi'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sohu.inputmethod.sogou.xiaomi
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.spotify.music'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.spotify.music
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.sukhavati.gotoplaying.bubble.BubbleShooter.mint'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.sukhavati.gotoplaying.bubble.BubbleShooter.mint
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.tencent.soter.soterserver'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.tencent.soter.soterserver
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.test.LTEfunctionality'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.test.LTEfunctionality
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.touchtype.swiftkey'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.touchtype.swiftkey
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.tripadvisor.tripadvisor'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.tripadvisor.tripadvisor
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.trustonic.tuiservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.trustonic.tuiservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.unionpay.tsmservice.mi'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.unionpay.tsmservice.mi
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.vlingo.midas'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.vlingo.midas
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.wssnps'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.wssnps
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.ab'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.ab
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.aiasst.service'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.aiasst.service
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.aiasst.vision'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.aiasst.vision
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.bluetooth'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.bluetooth
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.calendar'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.calendar
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.gamecenter.sdk.service'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.gamecenter.sdk.service
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.glgm'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.glgm
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.gnss.polaris'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.gnss.polaris
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.joyose'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.joyose
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.mi_connect_service'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.mi_connect_service
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.micloud.sdk'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.micloud.sdk
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.midrop'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.midrop
+--- ADB Output Start ---
+Failure [-1000]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.migameservice'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.migameservice
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.mipicks'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.mipicks
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.miplay_client'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.miplay_client
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.mircs'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.mircs
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.mirecycle'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.mirecycle
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.mirror'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.mirror
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.payment'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.payment
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.powerchecker'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.powerchecker
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.simactivate.service'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.simactivate.service
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.smarthome'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.smarthome
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.xmsf'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.xmsf
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.xiaomi.xmsfkeeper'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.xiaomi.xmsfkeeper
+--- ADB Output Start ---
+Success
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 com.zhiliaoapp.musically'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 com.zhiliaoapp.musically
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+[INFO] Processing line from input file: 'pm uninstall -k --user 0 org.mipay.android.manager'
+[EXEC] Command sent to device: adb shell pm uninstall --user 0 org.mipay.android.manager
+--- ADB Output Start ---
+Failure [not installed for 0]
+--- ADB Output End ---
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 00:50:14 ---
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.chrome'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.chrome
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gmsintegration'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gmsintegration
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.webview'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.webview
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.feedback'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.feedback
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.partnersetup'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.partnersetup
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.tachyon'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.tachyon
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gm
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.youtube'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.youtube
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gsf'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gsf
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gms'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gms
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 package:com.google.android.backuptransport'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.backuptransport
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.zte.zdm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.zte.zdm
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gsf'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gsf
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gms'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gms
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.youtube'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.youtube
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gm
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.tachyon'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.tachyon
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.partnersetup'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.partnersetup
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.projection.gearhead'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.projection.gearhead
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.feedback'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.feedback
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.googlequicksearchbox'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.googlequicksearchbox
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.gms.supervision'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gms.supervision
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.mainline.telemetry'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.mainline.telemetry
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.audio.hearing.visualization.accessibility.scribe'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.audio.hearing.visualization.accessibility.scribe
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.adservices.api'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.adservices.api
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.onetimeinitializer'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.onetimeinitializer
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.syncadapters.calendar'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.syncadapters.calendar
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.ar.core'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.ar.core
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.mainline.adservices'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.mainline.adservices
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.maps'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.maps
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.as'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.as
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.restore'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.restore
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.turbo'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.turbo
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 package:com.netflix.partner.activation'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.netflix.partner.activation
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 package:com.netflix.mediaclient'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.netflix.mediaclient
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall -k --user 0 com.miui.miservice'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miservice
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.micloud.sdk'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.micloud.sdk
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.mipicks'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.mipicks
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.joyose'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.joyose
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.account'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.account
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.payment'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.payment
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.aicr'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.aicr
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.glgm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.glgm
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.discover'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.discover
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.finddevice'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.finddevice
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.xmsfkeeper'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.xmsfkeeper
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 cn.wps.xiaomi.abroad.lite'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 cn.wps.xiaomi.abroad.lite
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.barrage'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.barrage
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.ugd'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.ugd
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.daemon'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.daemon
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.miservic'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miservic
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.miwallpaper.overlay.customize'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miwallpaper.overlay.customize
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.msa.global'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.msa.global
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.videoplayer'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.videoplayer
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.trustservice'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.trustservice
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.micloudsync'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.micloudsync
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miuix.editor'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miuix.editor
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.analytics'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.analytics
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.android.fashiongallery'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.android.fashiongallery
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.mi.globalbrowser'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.mi.globalbrowser
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.mi.globalminusscreen'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.mi.globalminusscreen
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.cloudbackup'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.cloudbackup
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.player'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.player
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.extraphoto'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.extraphoto
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.securityadd'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.securityadd
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.wallpaper.overlay'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.wallpaper.overlay
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.yellowpage'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.yellowpage
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.miwallpaper'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miwallpaper
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.mi.globallayout'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.mi.globallayout
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.mediaeditor'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.mediaeditor
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.backup'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.backup
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.xiaomi.mtb'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.mtb
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.cloudservice'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.cloudservice
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.milink.service'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.milink.service
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 org.mipay.android.manager'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 org.mipay.android.manager
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.miwallpaper.overlay'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miwallpaper.overlay
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.miwallpaper.wallpaperoverlay.config.overlay'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miwallpaper.wallpaperoverlay.config.overlay
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.wallpaper.overlay.customize'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.wallpaper.overlay.customize
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.wellbeing'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.wellbeing
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.googleassistant'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.googleassistant
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.marvin.talkback'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.marvin.talkback
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.as.oss'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.as.oss
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.hotwordenrollment.okgoogle
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.hotwordenrollment.xgoogle
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.subscriptions.red'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.subscriptions.red
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.safetycenter.resources'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.safetycenter.resources
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.bugreport'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.bugreport
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 package:com.miui.miservice'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.miservice
+Failure [not installed for 0]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.safetyhub'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.safetyhub
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.providers.downloads'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.providers.downloads
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.providers.downloads.ui'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.providers.downloads.ui
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.calendar'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.calendar
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.google.android.apps.messaging'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.messaging
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.cleaner'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.cleaner
+Success
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.miui.screenrecorder'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.screenrecorder
+Failure [-1000]
+
+[INFO] Removing: 'adb shell pm uninstall --user 0 com.android.wallpaperbackup'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.wallpaperbackup
+Failure [not installed for 0]
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 01:17:36 ---
+
+[INFO] Removing: 'com.miui.calculator'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.calculator
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.compass'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.compass
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.fm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.fm
+Success
+
+[INFO] Removing: 'com.miui.gallery'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.gallery
+Success
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 01:17:54 ---
+
+[INFO] Removing: 'com.miui.calculator'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.calculator
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.compass'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.compass
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.fm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.fm
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.miui.gallery'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.gallery
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.miui.notes'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.notes
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.qr'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.qr
+Success
+
+[INFO] Removing: 'com.miui.screenrecorder'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.screenrecorder
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.weather2'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.weather2
+Failure [-1000]
+
+[INFO] Removing: 'cn.wps.moffice_eng'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 cn.wps.moffice_eng
+Success
+
+[INFO] Removing: 'com.mi.global.bbs'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.mi.global.bbs
+Success
+
+[INFO] Removing: 'com.mi.global.shop'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.mi.global.shop
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.xiaomi.midrop'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.xiaomi.midrop
+Failure [-1000]
+
+[INFO] Removing: 'com.tencent.igxiaomi'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.tencent.igxiaomi
+Success
+
+[INFO] Removing: 'com.google.android.apps.photos'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.photos
+Success
+
+[INFO] Removing: 'com.google.android.apps.podcasts'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.apps.podcasts
+Success
+
+[INFO] Removing: 'com.google.android.gms'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.google.android.gms
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.android.vending'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.android.vending
+Success
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 01:19:23 ---
+
+[INFO] Removing: 'com.miui.calculator'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.calculator
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.compass'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.compass
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.fm'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.fm
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.miui.gallery'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.gallery
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.miui.notes'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.notes
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.qr'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.qr
+Failure [not installed for 0]
+
+[INFO] Removing: 'com.miui.screenrecorder'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.screenrecorder
+Failure [-1000]
+
+[INFO] Removing: 'com.miui.weather2'
+[EXEC] & "C:\Users\Julian\Downloads\platform-tools-latest-windows\platform-tools\adb.exe" shell pm uninstall --user 0 com.miui.weather2
+Failure [-1000]
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 01:41:55 ---
+
+[INFO] Processing install list item: '"C:\Users\Julian\Downloads\android app apks"'
+[INFO] Directory detected. Scanning for APKs.
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\ADM-Pro-v14.0.39_build_140039-Mod-armeabi-v7a.apk"
+Performing Streamed Install
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\Aloha.Private-Browser+VPN_7.6.2__ded_by_Platinum_s.apk"
+
+--------------------------------------------------------------------------
+[INFO] --- Script Session Started on 09/18/2025 01:44:41 ---
+
+[INFO] Processing install list item: '"C:\Users\Julian\Downloads\android app apks"'
+[INFO] Directory detected. Scanning for APKs.
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\ADM-Pro-v14.0.39_build_140039-Mod-armeabi-v7a.apk"
+Performing Streamed Install
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\Aloha.Private-Browser+VPN_7.6.2__ded_by_Platinum_s.apk"
+Performing Streamed Install
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\app-base-armeabi-v7a-release-signed.apk"
+Performing Streamed Install
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\app-fdroid-release.apk"
+Performing Streamed Install
+[EXEC] adb install -r "C:\Users\Julian\Downloads\android app apks\Bravearm64Universal.apk"
+Performing Streamed Install
