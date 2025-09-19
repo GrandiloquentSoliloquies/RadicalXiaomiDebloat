@@ -103,7 +103,6 @@ com.google.android.syncadapters.contacts
 com.google.android.talk
 com.google.android.tts
 com.google.android.videos
-com.google.android.webview
 com.google.android.youtube
 com.google.ar.core
 com.google.audio.hearing.visualization.accessibility.scribe
@@ -363,3 +362,4 @@ com.xiaomi.xmsfkeeper
 com.zhiliaoapp.musically
 com.zte.zdm
 org.mipay.android.manager
+
