@@ -1,3 +1,7 @@
+Edit: The Simple Tools are a tad outdated and can be a bit too "simple", depending on what the use case is. Whilst I personally still swear by their Gallery App and Notes App, for the rest, the fossify apps are generally considered to to be the first choice. 
+https://github.com/fossifyorg
+
+
 # Android App Replacements
 
 I curated the list and tried out apps, Gemini made it into some organized list with corporate-speak-esque descriptions.
