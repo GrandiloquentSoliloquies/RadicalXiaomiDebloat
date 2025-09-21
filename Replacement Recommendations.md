@@ -22,8 +22,10 @@ I curated the list and tried out apps, Gemini made it into some organized list w
 
 ## File Explorer
 
-- **Solid Explorer**: A modern file manager with a clean user interface and powerful features. While not open source, it is a highly-regarded option that prioritizes user privacy.
-  - Google Play Store: https://play.google.com/store/apps/details?id=pl.solidexplorer2
+(- **Solid Explorer**: A modern file manager with a clean user interface and powerful features. While not open source, it is a highly-regarded option that prioritizes user privacy.
+  - Google Play Store: https://play.google.com/store/apps/details?id=pl.solidexplorer2)
+
+Or, the open source alternative, the Amaze File Explorer. It's better from a Privacy point of few but lacks a few of the features that Solid Explorer has.
 
 ***
 
